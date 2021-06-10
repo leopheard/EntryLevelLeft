@@ -1,6 +1,6 @@
 <a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for <a href="https://entrylevelleft.podbean.com">The Entry Level Left</a> podcast.<br>
 
-<img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog4343324/TELE.png"><br>
+<img src="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog4343324/TELE.png" width="400" height="400" alt="The Entry Level Left"><br>
 
 <a href="https://apple.co/2wdYL6W">The Entry Level Left</a> is a leftist podcast offering a concise, digestible, and curated educational experience for entry level leftists.<br>
 
